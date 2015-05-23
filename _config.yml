@@ -6,7 +6,7 @@
 name: Garret Lai
 
 # Short bio or description (displayed in the header)
-description: Student in CityU SCM
+description: CityU SCM
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: {{ site.baseurl }}/images/profile.jpg
